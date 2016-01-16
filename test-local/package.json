@@ -1,0 +1,15 @@
+{
+  "name": "test-local",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "test-bin1": "file:test-bin1",
+    "test-bin2": "file:test-bin2"
+  }
+}
