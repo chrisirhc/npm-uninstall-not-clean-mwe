@@ -6,7 +6,7 @@ $ npm install
 $ npm uninstall test-local
 ```
 
-Observer that:
+Observe that there's still files in `node_modules/test-local`:
 ```sh
 $ find node_modules/
 node_modules
