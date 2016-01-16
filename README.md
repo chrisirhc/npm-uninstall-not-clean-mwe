@@ -1,0 +1,1 @@
+Reproduce https://github.com/npm/npm/issues/10887
